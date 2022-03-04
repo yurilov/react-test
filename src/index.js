@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import PeopleList from './components/PeopleList';
-import AddPersonForm from './components/AddPersonForm';
+import PeopleList from './js/PeopleList';
+import AddPersonForm from './js/AddPersonForm';
 import { createStore } from 'redux';
 import { Provider } from 'react-redux';
 import './sass/main.scss';
